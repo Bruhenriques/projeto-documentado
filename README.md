@@ -8,5 +8,5 @@ Vamos simular uma loja virtual (e-commerce), permitindo visualizar produtos e in
 ## 🚀 Como usar
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-documentado.git
+git clone https://github.com/Bruhenriques/projeto-documentado.git
 cd projeto-documentado

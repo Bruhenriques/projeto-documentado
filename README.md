@@ -1,12 +1,38 @@
-# E-commerce
+# E-commerce Simples 🛍️
 
 ##  Descrição
-Vamos simular uma loja virtual (e-commerce), permitindo visualizar produtos e interagir com um carrinho de compras.
+
+Este projeto simula uma loja virtual (e-commerce), permitindo visualizar produtos, adicionar itens ao carrinho e calcular o valor total da compra.
+
+treinar uso de readme
 
 ---
 
-## 🚀 Como usar
 
-```bash
-git clone https://github.com/Bruhenriques/projeto-documentado.git
-cd projeto-documentado
+
+##  Funcionalidades
+
+* Listagem de produtos
+* Adição ao carrinho
+* Remoção de itens
+* Cálculo do valor total
+
+---
+
+##  Tecnologias
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+##  Autor
+
+* Bruno Souza
+
+---
+
+##  Licença
+
+Este projeto está sob a licença MIT.

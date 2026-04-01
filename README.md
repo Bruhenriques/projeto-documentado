@@ -2,9 +2,9 @@
 
 ##  Descrição
 
-Este projeto simula uma loja virtual (e-commerce), permitindo visualizar produtos, adicionar itens ao carrinho e calcular o valor total da compra.
+Este projeto simula uma loja virtual(e-commerce).
 
-treinar uso de readme
+treinar uso de readme.md
 
 ---
 

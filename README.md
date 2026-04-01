@@ -1,16 +1,23 @@
-# E-commerce Simples 
 
-##  Descrição
 
-Este projeto simula uma loja virtual(e-commerce).
-
-treinar uso de readme.md
+##  Índice
+- [Descrição](#descrição)
+- [Funcionalidades](#funcionalidades)
+- [Tecnologias](#tecnologias)
+- [Autor](#autor)
+- [Licença](#licença)
 
 ---
 
+## Descrição
 
+Este projeto simula uma loja virtual (e-commerce).
 
-##  Funcionalidades
+Treinar uso de README.md
+
+---
+
+## Funcionalidades
 
 * Listagem de produtos
 * Adição ao carrinho
@@ -19,7 +26,7 @@ treinar uso de readme.md
 
 ---
 
-##  Tecnologias
+## Tecnologias
 
 * HTML
 * CSS
@@ -27,12 +34,12 @@ treinar uso de readme.md
 
 ---
 
-##  Autor
+## Autor
 
 * Bruno Souza
 
 ---
 
-##  Licença
+## Licença
 
 Este projeto está sob a licença MIT.

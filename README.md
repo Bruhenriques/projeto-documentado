@@ -1,4 +1,4 @@
-# E-commerce Simples 🛍️
+# E-commerce Simples 
 
 ##  Descrição
 
